@@ -31,7 +31,7 @@ const notificacionPost = async (req, res = response) => {
 
 const notificacionPatch = (req, res = response) => {
   res.json({
-    msg: "patch API - notificacionPatch",
+    msg: "patch API -notificacionPatch",
   });
 };
 
